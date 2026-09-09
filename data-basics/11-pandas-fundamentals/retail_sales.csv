@@ -1,0 +1,601 @@
+order_id,order_date,region,customer_segment,product_category,product_name,quantity,unit_price,discount,revenue
+ORD-00191,2024-01-02,North,Small Business,Furniture,Office Chair,3,120.0,0.0,360.0
+ORD-00217,2024-01-02,South,Consumer,Electronics,Wireless Mouse,5,18.0,0.0,90.0
+ORD-00234,2024-01-02,East,Consumer,Apparel,T-Shirt,4,15.0,0.1,54.0
+ORD-00399,2024-01-03,East,Corporate,Office Supplies,Sticky Notes,6,3.5,0.1,18.9
+ORD-00136,2024-01-06,North,Small Business,Office Supplies,Desk Organizer,7,12.0,0.05,79.8
+ORD-00103,2024-01-06,North,Small Business,Apparel,T-Shirt,5,15.0,0.0,75.0
+ORD-00505,2024-01-07,North,Consumer,Office Supplies,Printer Paper,7,8.0,0.0,56.0
+ORD-00442,2024-01-09,East,Consumer,Office Supplies,Sticky Notes,1,3.5,0.1,3.15
+ORD-00119,2024-01-09,East,Small Business,Electronics,Bluetooth Speaker,4,45.0,0.0,180.0
+ORD-00309,2024-01-09,North,Consumer,Office Supplies,Printer Paper,7,8.0,0.0,56.0
+ORD-00486,2024-01-10,East,Consumer,Electronics,Keyboard,4,40.0,0.0,160.0
+ORD-00537,2024-01-11,West,Consumer,Office Supplies,Desk Organizer,4,12.0,0.0,48.0
+ORD-00458,2024-01-12,East,Consumer,Furniture,Filing Cabinet,7,140.0,0.0,980.0
+ORD-00320,2024-01-13,East,Small Business,Apparel,Socks Pack,4,8.0,0.0,32.0
+ORD-00545,2024-01-14,North,Consumer,Apparel,Hoodie,2,35.0,0.0,70.0
+ORD-00240,2024-01-15,West,Consumer,Furniture,Desk Lamp,7,22.0,0.05,146.3
+ORD-00013,2024-01-17,East,Consumer,Furniture,Filing Cabinet,4,140.0,0.15,476.0
+ORD-00363,2024-01-17,East,Consumer,Electronics,Keyboard,2,40.0,0.0,80.0
+ORD-00338,2024-01-19,South,Corporate,Office Supplies,Notebook Pack,1,6.5,0.0,6.5
+ORD-00464,2024-01-19,East,Consumer,Office Supplies,Desk Organizer,4,12.0,0.0,48.0
+ORD-00357,2024-01-21,East,Corporate,Electronics,USB-C Hub,7,32.0,0.1,201.6
+ORD-00452,2024-01-21,South,Consumer,Apparel,Hoodie,1,35.0,0.1,31.5
+ORD-00189,2024-01-22,West,Consumer,Electronics,USB-C Hub,7,32.0,0.0,224.0
+ORD-00509,2024-01-22,East,Corporate,Office Supplies,Sticky Notes,2,3.5,0.15,5.95
+ORD-00113,2024-01-22,West,Small Business,Furniture,Filing Cabinet,6,140.0,0.0,840.0
+ORD-00184,2024-01-22,West,Corporate,Furniture,Office Chair,7,120.0,0.1,756.0
+ORD-00533,2024-01-23,East,Small Business,Electronics,Webcam,5,55.0,0.0,275.0
+ORD-00501,2024-01-23,North,Consumer,Electronics,USB-C Hub,2,32.0,0.0,64.0
+ORD-00561,2024-01-25,South,Corporate,Furniture,Bookshelf,3,95.0,0.1,256.5
+ORD-00411,2024-01-26,South,Consumer,Electronics,Bluetooth Speaker,6,45.0,0.0,270.0
+ORD-00070,2024-01-26,North,Consumer,Office Supplies,Notebook Pack,1,6.5,0.0,6.5
+ORD-00155,2024-01-26,North,Small Business,Office Supplies,Stapler,2,5.0,0.0,10.0
+ORD-00277,2024-01-27,East,Small Business,Office Supplies,Stapler,4,5.0,0.0,20.0
+ORD-00532,2024-01-27,West,Consumer,Electronics,Webcam,7,55.0,0.05,365.75
+ORD-00335,2024-01-27,North,Corporate,Office Supplies,Stapler,6,5.0,0.0,30.0
+ORD-00536,2024-01-28,West,Consumer,Electronics,Wireless Mouse,6,18.0,0.2,86.4
+ORD-00580,2024-01-29,South,Consumer,Electronics,Wireless Mouse,5,18.0,0.0,90.0
+ORD-00134,2024-01-30,West,Small Business,Furniture,Filing Cabinet,6,140.0,0.15,714.0
+ORD-00321,2024-02-01,West,Consumer,Office Supplies,Sticky Notes,7,3.5,0.0,24.5
+ORD-00281,2024-02-01,West,Corporate,Office Supplies,Notebook Pack,2,6.5,0.1,11.7
+ORD-00543,2024-02-01,North,Corporate,Electronics,Keyboard,4,40.0,0.0,160.0
+ORD-00248,2024-02-02,South,Corporate,Office Supplies,Notebook Pack,7,6.5,0.1,40.95
+ORD-00535,2024-02-02,West,Consumer,Furniture,Filing Cabinet,7,140.0,0.0,980.0
+ORD-00528,2024-02-02,North,Consumer,Electronics,Webcam,4,55.0,0.0,220.0
+ORD-00414,2024-02-04,South,Consumer,Electronics,Bluetooth Speaker,5,45.0,0.0,225.0
+ORD-00419,2024-02-05,North,Consumer,Office Supplies,Notebook Pack,1,6.5,0.1,5.85
+ORD-00284,2024-02-05,South,Consumer,Office Supplies,Notebook Pack,1,6.5,0.0,6.5
+ORD-00035,2024-02-06,West,Consumer,Apparel,T-Shirt,5,15.0,0.1,67.5
+ORD-00343,2024-02-06,West,Consumer,Furniture,Desk Lamp,1,22.0,0.0,22.0
+ORD-00497,2024-02-07,East,Consumer,Electronics,Keyboard,4,40.0,0.05,152.0
+ORD-00353,2024-02-08,East,Corporate,Office Supplies,Desk Organizer,4,12.0,0.0,48.0
+ORD-00150,2024-02-09,West,Consumer,Electronics,Wireless Mouse,5,18.0,0.0,90.0
+ORD-00077,2024-02-09,South,Consumer,Office Supplies,Stapler,5,5.0,0.0,25.0
+ORD-00491,2024-02-09,East,Corporate,Apparel,Cap,6,10.0,0.15,51.0
+ORD-00034,2024-02-10,West,Small Business,Furniture,Standing Desk,6,260.0,0.1,1404.0
+ORD-00591,2024-02-10,South,Small Business,Apparel,Cap,5,10.0,0.0,50.0
+ORD-00027,2024-02-11,West,Consumer,Office Supplies,Printer Paper,1,8.0,0.0,8.0
+ORD-00530,2024-02-13,South,Consumer,Apparel,Socks Pack,1,8.0,0.0,8.0
+ORD-00370,2024-02-13,East,Consumer,Apparel,T-Shirt,7,15.0,0.0,105.0
+ORD-00305,2024-02-13,West,Corporate,Furniture,Bookshelf,5,95.0,0.0,475.0
+ORD-00161,2024-02-13,North,Corporate,Apparel,T-Shirt,1,15.0,0.2,12.0
+ORD-00349,2024-02-14,West,Corporate,Electronics,Keyboard,4,40.0,0.15,136.0
+ORD-00499,2024-02-14,West,Small Business,Apparel,T-Shirt,3,15.0,0.05,42.75
+ORD-00165,2024-02-16,South,Corporate,Office Supplies,Printer Paper,4,8.0,0.0,32.0
+ORD-00064,2024-02-16,West,Consumer,Apparel,Hoodie,6,35.0,0.0,210.0
+ORD-00348,2024-02-16,South,Consumer,Apparel,T-Shirt,6,15.0,0.0,90.0
+ORD-00513,2024-02-16,North,Consumer,Apparel,T-Shirt,7,15.0,0.1,94.5
+ORD-00102,2024-02-17,North,Small Business,Electronics,Webcam,3,55.0,0.0,165.0
+ORD-00287,2024-02-17,North,Small Business,Electronics,Wireless Mouse,2,18.0,0.0,36.0
+ORD-00022,2024-02-17,North,Consumer,Office Supplies,Stapler,4,5.0,0.1,18.0
+ORD-00527,2024-02-18,North,Corporate,Apparel,Jacket,7,60.0,0.0,420.0
+ORD-00538,2024-02-18,South,Consumer,Electronics,Bluetooth Speaker,1,45.0,0.05,42.75
+ORD-00269,2024-02-19,North,Consumer,Furniture,Bookshelf,6,95.0,0.1,513.0
+ORD-00308,2024-02-19,West,Consumer,Furniture,Office Chair,4,120.0,0.0,480.0
+ORD-00514,2024-02-21,West,Corporate,Apparel,Hoodie,6,35.0,0.15,178.5
+ORD-00204,2024-02-21,North,Consumer,Furniture,Desk Lamp,3,22.0,0.1,59.4
+ORD-00249,2024-02-21,East,Consumer,Apparel,Jacket,6,60.0,0.0,360.0
+ORD-00058,2024-02-23,West,Consumer,Electronics,Webcam,4,55.0,0.05,209.0
+ORD-00069,2024-02-24,South,Consumer,Electronics,Keyboard,7,40.0,0.05,266.0
+ORD-00038,2024-02-26,South,Corporate,Apparel,Hoodie,1,35.0,0.0,35.0
+ORD-00568,2024-02-26,North,Consumer,Electronics,Bluetooth Speaker,4,45.0,0.0,180.0
+ORD-00403,2024-02-27,North,Small Business,Office Supplies,Stapler,6,5.0,0.1,27.0
+ORD-00253,2024-02-27,North,Consumer,Electronics,Keyboard,1,40.0,0.0,40.0
+ORD-00365,2024-02-28,North,Consumer,Electronics,Keyboard,4,40.0,0.05,152.0
+ORD-00163,2024-02-28,East,Consumer,Office Supplies,Sticky Notes,3,3.5,0.0,10.5
+ORD-00351,2024-02-28,South,Corporate,Furniture,Office Chair,2,120.0,0.0,240.0
+ORD-00327,2024-02-28,East,Consumer,Electronics,USB-C Hub,3,32.0,0.0,96.0
+ORD-00322,2024-02-29,East,Consumer,Electronics,USB-C Hub,5,32.0,0.0,160.0
+ORD-00271,2024-03-01,North,Consumer,Office Supplies,Stapler,7,5.0,0.0,35.0
+ORD-00562,2024-03-02,South,Consumer,Electronics,USB-C Hub,3,32.0,0.05,91.2
+ORD-00559,2024-03-02,North,Consumer,Apparel,Hoodie,4,35.0,0.15,119.0
+ORD-00180,2024-03-02,South,Corporate,Furniture,Desk Lamp,4,22.0,0.0,88.0
+ORD-00517,2024-03-02,North,Consumer,Apparel,Jacket,5,60.0,0.05,285.0
+ORD-00524,2024-03-02,South,Small Business,Apparel,Hoodie,6,35.0,0.0,210.0
+ORD-00049,2024-03-02,West,Corporate,Furniture,Desk Lamp,3,22.0,0.15,56.1
+ORD-00097,2024-03-04,South,Consumer,Electronics,Webcam,2,55.0,0.05,104.5
+ORD-00289,2024-03-04,North,Corporate,Furniture,Office Chair,1,120.0,0.0,120.0
+ORD-00052,2024-03-04,North,Consumer,Electronics,Webcam,3,55.0,0.0,165.0
+ORD-00257,2024-03-04,South,Consumer,Furniture,Standing Desk,7,260.0,0.0,1820.0
+ORD-00088,2024-03-05,West,Corporate,Office Supplies,Stapler,2,5.0,0.0,10.0
+ORD-00196,2024-03-05,South,Consumer,Electronics,Bluetooth Speaker,5,45.0,0.0,225.0
+ORD-00099,2024-03-07,South,Consumer,Furniture,Office Chair,4,120.0,0.2,384.0
+ORD-00087,2024-03-07,North,Corporate,Electronics,USB-C Hub,7,32.0,0.0,224.0
+ORD-00290,2024-03-08,West,Consumer,Office Supplies,Printer Paper,4,8.0,0.05,30.4
+ORD-00256,2024-03-09,East,Corporate,Electronics,Keyboard,1,40.0,0.0,40.0
+ORD-00394,2024-03-09,South,Small Business,Furniture,Bookshelf,1,95.0,0.0,95.0
+ORD-00529,2024-03-09,East,Consumer,Apparel,Cap,4,10.0,0.1,36.0
+ORD-00359,2024-03-09,North,Consumer,Electronics,Keyboard,7,40.0,0.05,266.0
+ORD-00045,2024-03-10,West,Consumer,Electronics,Webcam,7,55.0,0.0,385.0
+ORD-00194,2024-03-11,East,Consumer,Office Supplies,Sticky Notes,6,3.5,0.0,21.0
+ORD-00295,2024-03-11,East,Corporate,Furniture,Filing Cabinet,3,140.0,0.15,357.0
+ORD-00153,2024-03-12,West,Consumer,Apparel,T-Shirt,4,15.0,0.0,60.0
+ORD-00258,2024-03-12,North,Consumer,Electronics,Wireless Mouse,4,18.0,0.0,72.0
+ORD-00182,2024-03-12,North,Consumer,Electronics,Webcam,2,55.0,0.15,93.5
+ORD-00024,2024-03-13,South,Consumer,Apparel,Cap,5,10.0,0.05,47.5
+ORD-00040,2024-03-13,East,Corporate,Furniture,Desk Lamp,1,22.0,0.0,22.0
+ORD-00288,2024-03-14,North,Consumer,Furniture,Office Chair,1,120.0,0.2,96.0
+ORD-00504,2024-03-14,North,Corporate,Apparel,T-Shirt,2,15.0,0.0,30.0
+ORD-00242,2024-03-16,South,Consumer,Furniture,Filing Cabinet,4,140.0,0.1,504.0
+ORD-00079,2024-03-16,East,Consumer,Furniture,Bookshelf,1,95.0,0.05,90.25
+ORD-00433,2024-03-16,South,Corporate,Apparel,Socks Pack,1,8.0,0.05,7.6
+ORD-00583,2024-03-16,North,Consumer,Electronics,Webcam,1,55.0,0.05,52.25
+ORD-00241,2024-03-17,West,Consumer,Electronics,Bluetooth Speaker,6,45.0,0.0,270.0
+ORD-00328,2024-03-17,North,Corporate,Electronics,Bluetooth Speaker,1,45.0,0.0,45.0
+ORD-00526,2024-03-18,East,Consumer,Office Supplies,Sticky Notes,6,3.5,0.0,21.0
+ORD-00297,2024-03-18,East,Consumer,Apparel,Cap,4,10.0,0.0,40.0
+ORD-00232,2024-03-18,North,Consumer,Apparel,Hoodie,2,35.0,0.05,66.5
+ORD-00179,2024-03-19,West,Small Business,Apparel,Hoodie,4,35.0,0.05,133.0
+ORD-00476,2024-03-19,North,Corporate,Apparel,T-Shirt,7,15.0,0.0,105.0
+ORD-00018,2024-03-19,South,Consumer,Electronics,Bluetooth Speaker,6,45.0,0.0,270.0
+ORD-00586,2024-03-20,East,Corporate,Apparel,Hoodie,2,35.0,0.0,70.0
+ORD-00444,2024-03-21,North,Consumer,Office Supplies,Printer Paper,5,8.0,0.05,38.0
+ORD-00413,2024-03-22,East,Consumer,Office Supplies,Printer Paper,5,8.0,0.05,38.0
+ORD-00029,2024-03-22,West,Consumer,Furniture,Bookshelf,2,95.0,0.05,180.5
+ORD-00181,2024-03-22,North,Consumer,Apparel,Jacket,7,60.0,0.0,420.0
+ORD-00471,2024-03-22,North,Consumer,Furniture,Filing Cabinet,6,140.0,0.0,840.0
+ORD-00314,2024-03-23,East,Consumer,Office Supplies,Sticky Notes,3,3.5,0.0,10.5
+ORD-00152,2024-03-23,West,Corporate,Office Supplies,Notebook Pack,3,6.5,0.0,19.5
+ORD-00197,2024-03-23,East,Corporate,Office Supplies,Sticky Notes,5,3.5,0.0,17.5
+ORD-00336,2024-03-24,West,Small Business,Apparel,Jacket,1,60.0,0.0,60.0
+ORD-00484,2024-03-25,West,Consumer,Apparel,Cap,6,10.0,0.2,48.0
+ORD-00089,2024-03-25,West,Consumer,Apparel,Cap,1,10.0,0.0,10.0
+ORD-00435,2024-03-26,South,Small Business,Office Supplies,Notebook Pack,3,6.5,0.2,15.6
+ORD-00210,2024-03-26,East,Small Business,Apparel,Jacket,2,60.0,0.0,120.0
+ORD-00372,2024-03-27,West,Small Business,Furniture,Bookshelf,3,95.0,0.0,285.0
+ORD-00293,2024-03-27,South,Consumer,Apparel,Cap,1,10.0,0.15,8.5
+ORD-00110,2024-03-27,West,Consumer,Furniture,Bookshelf,6,95.0,0.0,570.0
+ORD-00255,2024-03-27,South,Consumer,Furniture,Standing Desk,5,260.0,0.05,1235.0
+ORD-00094,2024-03-28,South,Consumer,Office Supplies,Sticky Notes,1,3.5,0.0,3.5
+ORD-00073,2024-03-28,East,Consumer,Office Supplies,Desk Organizer,7,12.0,0.0,84.0
+ORD-00084,2024-03-28,East,Consumer,Apparel,Jacket,6,60.0,0.0,360.0
+ORD-00275,2024-03-29,East,Consumer,Office Supplies,Desk Organizer,7,12.0,0.05,79.8
+ORD-00278,2024-03-30,North,Corporate,Apparel,Socks Pack,3,8.0,0.0,24.0
+ORD-00482,2024-03-30,South,Corporate,Apparel,Jacket,1,60.0,0.0,60.0
+ORD-00570,2024-03-30,East,Consumer,Furniture,Desk Lamp,2,22.0,0.0,44.0
+ORD-00386,2024-03-31,South,Consumer,Electronics,Webcam,3,55.0,0.15,140.25
+ORD-00595,2024-03-31,East,Small Business,Office Supplies,Stapler,4,5.0,0.0,20.0
+ORD-00333,2024-03-31,East,Corporate,Office Supplies,Printer Paper,7,8.0,0.0,56.0
+ORD-00061,2024-03-31,East,Consumer,Apparel,T-Shirt,2,15.0,0.05,28.5
+ORD-00431,2024-04-01,East,Corporate,Electronics,USB-C Hub,5,32.0,0.1,144.0
+ORD-00391,2024-04-02,West,Small Business,Furniture,Standing Desk,6,260.0,0.0,1560.0
+ORD-00306,2024-04-02,West,Consumer,Electronics,Webcam,2,55.0,0.0,110.0
+ORD-00222,2024-04-02,North,Consumer,Office Supplies,Desk Organizer,7,12.0,0.0,84.0
+ORD-00319,2024-04-03,North,Consumer,Apparel,Hoodie,4,35.0,0.05,133.0
+ORD-00468,2024-04-04,South,Consumer,Furniture,Filing Cabinet,5,140.0,0.0,700.0
+ORD-00566,2024-04-05,East,Corporate,Electronics,Wireless Mouse,7,18.0,0.05,119.7
+ORD-00200,2024-04-06,North,Corporate,Apparel,Cap,3,10.0,0.0,30.0
+ORD-00216,2024-04-06,North,Consumer,Office Supplies,Sticky Notes,6,3.5,0.0,21.0
+ORD-00515,2024-04-06,South,Consumer,Apparel,T-Shirt,5,15.0,0.0,75.0
+ORD-00168,2024-04-07,East,Consumer,Electronics,USB-C Hub,4,32.0,0.05,121.6
+ORD-00302,2024-04-07,West,Corporate,Apparel,T-Shirt,2,15.0,0.05,28.5
+ORD-00100,2024-04-09,West,Corporate,Electronics,Wireless Mouse,1,18.0,0.0,18.0
+ORD-00060,2024-04-09,South,Consumer,Furniture,Standing Desk,6,260.0,0.05,1482.0
+ORD-00032,2024-04-09,East,Corporate,Electronics,Bluetooth Speaker,6,45.0,0.0,270.0
+ORD-00307,2024-04-10,East,Corporate,Office Supplies,Stapler,7,5.0,0.05,33.25
+ORD-00212,2024-04-10,South,Consumer,Furniture,Desk Lamp,4,22.0,0.0,88.0
+ORD-00304,2024-04-10,North,Small Business,Apparel,Jacket,3,60.0,0.1,162.0
+ORD-00083,2024-04-11,North,Corporate,Electronics,Keyboard,3,40.0,0.1,108.0
+ORD-00599,2024-04-13,West,Consumer,Furniture,Desk Lamp,4,22.0,0.0,88.0
+ORD-00039,2024-04-13,North,Corporate,Office Supplies,Desk Organizer,3,12.0,0.15,30.6
+ORD-00420,2024-04-13,East,Consumer,Furniture,Office Chair,7,120.0,0.15,714.0
+ORD-00368,2024-04-15,North,Corporate,Office Supplies,Printer Paper,5,8.0,0.2,32.0
+ORD-00596,2024-04-15,South,Consumer,Apparel,Socks Pack,2,8.0,0.05,15.2
+ORD-00389,2024-04-15,South,Consumer,Apparel,Hoodie,7,35.0,0.0,245.0
+ORD-00294,2024-04-15,North,Consumer,Office Supplies,Sticky Notes,3,3.5,0.2,8.4
+ORD-00042,2024-04-16,West,Consumer,Apparel,Jacket,6,60.0,0.1,324.0
+ORD-00525,2024-04-16,West,Corporate,Office Supplies,Sticky Notes,4,3.5,0.0,14.0
+ORD-00592,2024-04-17,South,Consumer,Apparel,Hoodie,7,35.0,0.1,220.5
+ORD-00437,2024-04-17,East,Corporate,Furniture,Desk Lamp,2,22.0,0.0,44.0
+ORD-00178,2024-04-18,West,Consumer,Electronics,Wireless Mouse,6,18.0,0.0,108.0
+ORD-00475,2024-04-18,South,Consumer,Furniture,Bookshelf,6,95.0,0.2,456.0
+ORD-00205,2024-04-19,North,Consumer,Office Supplies,Desk Organizer,2,12.0,0.0,24.0
+ORD-00430,2024-04-19,South,Corporate,Furniture,Standing Desk,1,260.0,0.0,260.0
+ORD-00106,2024-04-20,East,Corporate,Apparel,Cap,5,10.0,0.0,50.0
+ORD-00342,2024-04-21,South,Consumer,Office Supplies,Stapler,2,5.0,0.0,10.0
+ORD-00584,2024-04-22,West,Corporate,Electronics,USB-C Hub,7,32.0,0.0,224.0
+ORD-00549,2024-04-22,West,Corporate,Furniture,Filing Cabinet,6,140.0,0.05,798.0
+ORD-00373,2024-04-22,North,Corporate,Office Supplies,Stapler,6,5.0,0.0,30.0
+ORD-00062,2024-04-22,South,Consumer,Furniture,Filing Cabinet,7,140.0,0.0,980.0
+ORD-00503,2024-04-23,North,Consumer,Apparel,Jacket,5,60.0,0.2,240.0
+ORD-00098,2024-04-24,South,Consumer,Furniture,Bookshelf,5,95.0,0.0,475.0
+ORD-00164,2024-04-24,East,Consumer,Office Supplies,Sticky Notes,2,3.5,0.05,6.65
+ORD-00447,2024-04-26,South,Small Business,Office Supplies,Printer Paper,3,8.0,0.0,24.0
+ORD-00043,2024-04-29,West,Corporate,Furniture,Desk Lamp,7,22.0,0.0,154.0
+ORD-00574,2024-04-30,South,Consumer,Electronics,Wireless Mouse,3,18.0,0.0,54.0
+ORD-00522,2024-05-01,West,Small Business,Electronics,Wireless Mouse,6,18.0,0.0,108.0
+ORD-00395,2024-05-02,East,Small Business,Furniture,Bookshelf,5,95.0,0.0,475.0
+ORD-00434,2024-05-02,South,Consumer,Electronics,Bluetooth Speaker,7,45.0,0.2,252.0
+ORD-00597,2024-05-03,East,Corporate,Furniture,Filing Cabinet,7,140.0,0.15,833.0
+ORD-00085,2024-05-03,West,Consumer,Furniture,Office Chair,3,120.0,0.0,360.0
+ORD-00251,2024-05-03,East,Consumer,Electronics,Keyboard,3,40.0,0.0,120.0
+ORD-00487,2024-05-04,South,Consumer,Office Supplies,Sticky Notes,3,3.5,0.1,9.45
+ORD-00213,2024-05-04,East,Consumer,Apparel,Socks Pack,2,8.0,0.05,15.2
+ORD-00091,2024-05-05,South,Consumer,Office Supplies,Sticky Notes,2,3.5,0.05,6.65
+ORD-00174,2024-05-05,North,Corporate,Furniture,Filing Cabinet,3,140.0,0.15,357.0
+ORD-00558,2024-05-06,South,Corporate,Apparel,Jacket,5,60.0,0.0,300.0
+ORD-00510,2024-05-07,South,Consumer,Electronics,Wireless Mouse,2,18.0,0.1,32.4
+ORD-00021,2024-05-07,West,Consumer,Furniture,Bookshelf,5,95.0,0.0,475.0
+ORD-00454,2024-05-07,West,Small Business,Electronics,Keyboard,5,40.0,0.0,200.0
+ORD-00406,2024-05-08,West,Consumer,Furniture,Desk Lamp,7,22.0,0.15,130.9
+ORD-00407,2024-05-09,South,Small Business,Office Supplies,Sticky Notes,2,3.5,0.05,6.65
+ORD-00131,2024-05-10,East,Consumer,Furniture,Filing Cabinet,4,140.0,0.05,532.0
+ORD-00054,2024-05-10,East,Corporate,Office Supplies,Sticky Notes,6,3.5,0.0,21.0
+ORD-00086,2024-05-11,North,Consumer,Furniture,Desk Lamp,1,22.0,0.15,18.7
+ORD-00465,2024-05-11,West,Corporate,Electronics,Webcam,4,55.0,0.0,220.0
+ORD-00237,2024-05-12,North,Small Business,Furniture,Desk Lamp,3,22.0,0.0,66.0
+ORD-00115,2024-05-13,East,Small Business,Furniture,Desk Lamp,7,22.0,0.0,154.0
+ORD-00101,2024-05-13,North,Consumer,Apparel,Cap,6,10.0,0.0,60.0
+ORD-00011,2024-05-14,East,Consumer,Furniture,Desk Lamp,5,22.0,0.1,99.0
+ORD-00108,2024-05-14,West,Consumer,Furniture,Bookshelf,2,95.0,0.0,190.0
+ORD-00006,2024-05-15,North,Corporate,Apparel,Cap,7,10.0,0.05,66.5
+ORD-00254,2024-05-15,South,Consumer,Office Supplies,Printer Paper,2,8.0,0.0,16.0
+ORD-00493,2024-05-15,South,Corporate,Apparel,Jacket,5,60.0,0.0,300.0
+ORD-00025,2024-05-16,West,Consumer,Apparel,Socks Pack,3,8.0,0.0,24.0
+ORD-00228,2024-05-18,East,Consumer,Furniture,Desk Lamp,7,22.0,0.05,146.3
+ORD-00531,2024-05-18,North,Consumer,Furniture,Bookshelf,6,95.0,0.15,484.5
+ORD-00424,2024-05-19,South,Corporate,Furniture,Desk Lamp,1,22.0,0.1,19.8
+ORD-00063,2024-05-19,West,Consumer,Office Supplies,Notebook Pack,4,6.5,0.0,26.0
+ORD-00023,2024-05-21,South,Consumer,Electronics,Wireless Mouse,7,18.0,0.05,119.7
+ORD-00059,2024-05-22,South,Consumer,Furniture,Office Chair,4,120.0,0.0,480.0
+ORD-00092,2024-05-23,East,Corporate,Apparel,Socks Pack,7,8.0,0.1,50.4
+ORD-00329,2024-05-23,East,Corporate,Electronics,USB-C Hub,1,32.0,0.15,27.2
+ORD-00405,2024-05-23,West,Consumer,Office Supplies,Notebook Pack,1,6.5,0.1,5.85
+ORD-00380,2024-05-24,North,Small Business,Office Supplies,Stapler,5,5.0,0.05,23.75
+ORD-00041,2024-05-24,East,Small Business,Electronics,Webcam,4,55.0,0.0,220.0
+ORD-00250,2024-05-24,North,Consumer,Electronics,Webcam,1,55.0,0.15,46.75
+ORD-00460,2024-05-24,East,Consumer,Electronics,Bluetooth Speaker,2,45.0,0.0,90.0
+ORD-00318,2024-05-25,West,Consumer,Furniture,Filing Cabinet,1,140.0,0.05,133.0
+ORD-00312,2024-05-26,West,Small Business,Furniture,Office Chair,2,120.0,0.1,216.0
+ORD-00166,2024-05-26,South,Consumer,Apparel,Socks Pack,1,8.0,0.2,6.4
+ORD-00315,2024-05-27,West,Consumer,Electronics,USB-C Hub,2,32.0,0.0,64.0
+ORD-00274,2024-05-27,South,Consumer,Apparel,T-Shirt,2,15.0,0.1,27.0
+ORD-00291,2024-05-27,East,Corporate,Apparel,T-Shirt,2,15.0,0.0,30.0
+ORD-00188,2024-05-27,North,Corporate,Office Supplies,Desk Organizer,3,12.0,0.1,32.4
+ORD-00142,2024-05-28,South,Consumer,Electronics,Webcam,1,55.0,0.05,52.25
+ORD-00485,2024-05-28,East,Consumer,Office Supplies,Printer Paper,3,8.0,0.2,19.2
+ORD-00260,2024-05-29,South,Consumer,Furniture,Desk Lamp,4,22.0,0.1,79.2
+ORD-00479,2024-05-29,North,Consumer,Furniture,Bookshelf,7,95.0,0.05,631.75
+ORD-00547,2024-05-29,South,Corporate,Office Supplies,Stapler,7,5.0,0.15,29.75
+ORD-00416,2024-05-30,North,Corporate,Furniture,Desk Lamp,2,22.0,0.05,41.8
+ORD-00272,2024-05-30,North,Consumer,Electronics,Bluetooth Speaker,5,45.0,0.1,202.5
+ORD-00555,2024-05-31,North,Consumer,Apparel,Hoodie,5,35.0,0.0,175.0
+ORD-00461,2024-05-31,North,Corporate,Furniture,Filing Cabinet,5,140.0,0.05,665.0
+ORD-00285,2024-05-31,North,Consumer,Office Supplies,Sticky Notes,3,3.5,0.0,10.5
+ORD-00563,2024-06-02,East,Consumer,Office Supplies,Sticky Notes,1,3.5,0.0,3.5
+ORD-00209,2024-06-02,East,Corporate,Office Supplies,Printer Paper,1,8.0,0.2,6.4
+ORD-00369,2024-06-03,East,Corporate,Electronics,Keyboard,7,40.0,0.0,280.0
+ORD-00071,2024-06-03,North,Consumer,Apparel,Jacket,3,60.0,0.0,180.0
+ORD-00567,2024-06-03,South,Small Business,Electronics,Wireless Mouse,4,18.0,0.0,72.0
+ORD-00008,2024-06-04,East,Small Business,Furniture,Bookshelf,6,95.0,0.0,570.0
+ORD-00218,2024-06-05,West,Corporate,Electronics,Wireless Mouse,4,18.0,0.1,64.8
+ORD-00220,2024-06-06,West,Small Business,Apparel,Jacket,4,60.0,0.15,204.0
+ORD-00173,2024-06-06,East,Corporate,Apparel,T-Shirt,4,15.0,0.0,60.0
+ORD-00261,2024-06-07,East,Corporate,Apparel,Jacket,6,60.0,0.0,360.0
+ORD-00325,2024-06-07,East,Small Business,Apparel,Hoodie,5,35.0,0.0,175.0
+ORD-00125,2024-06-09,North,Small Business,Apparel,Socks Pack,7,8.0,0.05,53.2
+ORD-00081,2024-06-09,East,Corporate,Apparel,Socks Pack,6,8.0,0.2,38.4
+ORD-00551,2024-06-09,South,Small Business,Apparel,Hoodie,7,35.0,0.1,220.5
+ORD-00104,2024-06-09,West,Consumer,Electronics,Wireless Mouse,7,18.0,0.0,126.0
+ORD-00489,2024-06-10,West,Consumer,Apparel,Socks Pack,7,8.0,0.15,47.6
+ORD-00356,2024-06-10,West,Consumer,Apparel,Socks Pack,2,8.0,0.15,13.6
+ORD-00080,2024-06-12,East,Small Business,Furniture,Desk Lamp,7,22.0,0.0,154.0
+ORD-00556,2024-06-12,North,Small Business,Furniture,Bookshelf,3,95.0,0.0,285.0
+ORD-00143,2024-06-13,West,Consumer,Office Supplies,Desk Organizer,1,12.0,0.05,11.4
+ORD-00500,2024-06-13,South,Small Business,Office Supplies,Stapler,7,5.0,0.0,35.0
+ORD-00397,2024-06-14,North,Corporate,Electronics,USB-C Hub,5,32.0,0.0,160.0
+ORD-00453,2024-06-14,West,Corporate,Office Supplies,Stapler,1,5.0,0.0,5.0
+ORD-00587,2024-06-14,South,Consumer,Furniture,Office Chair,2,120.0,0.2,192.0
+ORD-00443,2024-06-15,West,Consumer,Electronics,USB-C Hub,4,32.0,0.0,128.0
+ORD-00016,2024-06-16,South,Small Business,Apparel,Socks Pack,1,8.0,0.2,6.4
+ORD-00132,2024-06-17,West,Corporate,Furniture,Bookshelf,6,95.0,0.1,513.0
+ORD-00292,2024-06-18,West,Corporate,Office Supplies,Desk Organizer,4,12.0,0.0,48.0
+ORD-00286,2024-06-19,South,Corporate,Apparel,Socks Pack,7,8.0,0.1,50.4
+ORD-00560,2024-06-19,North,Consumer,Apparel,Hoodie,5,35.0,0.0,175.0
+ORD-00090,2024-06-19,North,Small Business,Apparel,Socks Pack,5,8.0,0.1,36.0
+ORD-00139,2024-06-20,East,Consumer,Office Supplies,Desk Organizer,6,12.0,0.0,72.0
+ORD-00123,2024-06-21,West,Consumer,Furniture,Desk Lamp,4,22.0,0.2,70.4
+ORD-00410,2024-06-21,North,Corporate,Electronics,USB-C Hub,1,32.0,0.15,27.2
+ORD-00451,2024-06-22,South,Consumer,Apparel,Cap,2,10.0,0.1,18.0
+ORD-00498,2024-06-22,North,Consumer,Office Supplies,Desk Organizer,2,12.0,0.15,20.4
+ORD-00138,2024-06-23,East,Consumer,Electronics,Bluetooth Speaker,3,45.0,0.0,135.0
+ORD-00056,2024-06-23,South,Small Business,Electronics,USB-C Hub,1,32.0,0.15,27.2
+ORD-00262,2024-06-23,East,Consumer,Electronics,Keyboard,3,40.0,0.05,114.0
+ORD-00427,2024-06-24,North,Small Business,Apparel,T-Shirt,5,15.0,0.0,75.0
+ORD-00072,2024-06-24,North,Consumer,Electronics,Webcam,1,55.0,0.0,55.0
+ORD-00015,2024-06-27,West,Consumer,Furniture,Filing Cabinet,1,140.0,0.2,112.0
+ORD-00141,2024-06-28,North,Consumer,Apparel,Jacket,4,60.0,0.0,240.0
+ORD-00140,2024-06-29,West,Consumer,Office Supplies,Sticky Notes,3,3.5,0.0,10.5
+ORD-00450,2024-06-29,South,Consumer,Office Supplies,Notebook Pack,6,6.5,0.0,39.0
+ORD-00116,2024-06-30,South,Consumer,Furniture,Filing Cabinet,3,140.0,0.0,420.0
+ORD-00374,2024-07-02,South,Consumer,Office Supplies,Stapler,6,5.0,0.05,28.5
+ORD-00376,2024-07-03,East,Consumer,Electronics,Bluetooth Speaker,3,45.0,0.0,135.0
+ORD-00012,2024-07-03,East,Consumer,Apparel,Cap,6,10.0,0.15,51.0
+ORD-00377,2024-07-03,East,Consumer,Furniture,Office Chair,4,120.0,0.0,480.0
+ORD-00129,2024-07-03,South,Consumer,Furniture,Bookshelf,5,95.0,0.1,427.5
+ORD-00311,2024-07-06,North,Corporate,Furniture,Filing Cabinet,3,140.0,0.1,378.0
+ORD-00421,2024-07-07,North,Consumer,Apparel,T-Shirt,2,15.0,0.0,30.0
+ORD-00244,2024-07-08,South,Consumer,Furniture,Office Chair,4,120.0,0.1,432.0
+ORD-00392,2024-07-09,West,Consumer,Electronics,USB-C Hub,3,32.0,0.05,91.2
+ORD-00552,2024-07-09,East,Consumer,Office Supplies,Stapler,7,5.0,0.05,33.25
+ORD-00337,2024-07-09,East,Corporate,Apparel,T-Shirt,2,15.0,0.0,30.0
+ORD-00469,2024-07-10,East,Corporate,Electronics,Bluetooth Speaker,4,45.0,0.0,180.0
+ORD-00539,2024-07-11,West,Corporate,Furniture,Filing Cabinet,1,140.0,0.15,119.0
+ORD-00360,2024-07-11,North,Consumer,Furniture,Bookshelf,6,95.0,0.2,456.0
+ORD-00265,2024-07-11,East,Corporate,Apparel,Jacket,6,60.0,0.0,360.0
+ORD-00044,2024-07-12,South,Corporate,Office Supplies,Stapler,4,5.0,0.0,20.0
+ORD-00478,2024-07-12,East,Small Business,Electronics,Wireless Mouse,3,18.0,0.15,45.9
+ORD-00496,2024-07-13,East,Small Business,Office Supplies,Notebook Pack,5,6.5,0.0,32.5
+ORD-00017,2024-07-13,North,Consumer,Furniture,Standing Desk,4,260.0,0.0,1040.0
+ORD-00467,2024-07-15,West,Consumer,Electronics,Keyboard,6,40.0,0.0,240.0
+ORD-00299,2024-07-15,South,Consumer,Office Supplies,Notebook Pack,4,6.5,0.0,26.0
+ORD-00111,2024-07-15,South,Small Business,Office Supplies,Desk Organizer,4,12.0,0.05,45.6
+ORD-00345,2024-07-15,North,Consumer,Apparel,T-Shirt,2,15.0,0.0,30.0
+ORD-00341,2024-07-16,East,Small Business,Furniture,Filing Cabinet,4,140.0,0.15,476.0
+ORD-00477,2024-07-18,West,Corporate,Apparel,Socks Pack,2,8.0,0.05,15.2
+ORD-00066,2024-07-19,South,Consumer,Office Supplies,Desk Organizer,1,12.0,0.0,12.0
+ORD-00146,2024-07-20,West,Consumer,Apparel,Hoodie,7,35.0,0.0,245.0
+ORD-00598,2024-07-21,North,Consumer,Apparel,Jacket,2,60.0,0.05,114.0
+ORD-00176,2024-07-22,North,Consumer,Office Supplies,Sticky Notes,7,3.5,0.0,24.5
+ORD-00259,2024-07-24,South,Small Business,Electronics,Webcam,2,55.0,0.0,110.0
+ORD-00448,2024-07-24,North,Consumer,Apparel,Socks Pack,5,8.0,0.0,40.0
+ORD-00215,2024-07-24,South,Consumer,Furniture,Filing Cabinet,5,140.0,0.2,560.0
+ORD-00033,2024-07-24,North,Small Business,Electronics,USB-C Hub,7,32.0,0.0,224.0
+ORD-00594,2024-07-26,North,Small Business,Apparel,Socks Pack,2,8.0,0.1,14.4
+ORD-00144,2024-07-26,South,Consumer,Office Supplies,Printer Paper,5,8.0,0.05,38.0
+ORD-00235,2024-07-27,North,Consumer,Office Supplies,Sticky Notes,3,3.5,0.2,8.4
+ORD-00236,2024-07-27,East,Corporate,Furniture,Filing Cabinet,1,140.0,0.0,140.0
+ORD-00512,2024-07-30,South,Corporate,Furniture,Standing Desk,4,260.0,0.2,832.0
+ORD-00137,2024-07-30,South,Consumer,Furniture,Filing Cabinet,5,140.0,0.0,700.0
+ORD-00542,2024-07-30,West,Corporate,Electronics,Bluetooth Speaker,6,45.0,0.0,270.0
+ORD-00227,2024-07-30,South,Consumer,Apparel,Socks Pack,5,8.0,0.05,38.0
+ORD-00378,2024-07-31,West,Consumer,Furniture,Bookshelf,6,95.0,0.0,570.0
+ORD-00075,2024-07-31,East,Consumer,Furniture,Filing Cabinet,6,140.0,0.0,840.0
+ORD-00019,2024-08-06,South,Consumer,Apparel,T-Shirt,6,15.0,0.0,90.0
+ORD-00007,2024-08-06,South,Corporate,Electronics,Bluetooth Speaker,4,45.0,0.0,180.0
+ORD-00415,2024-08-06,South,Consumer,Electronics,USB-C Hub,1,32.0,0.0,32.0
+ORD-00303,2024-08-07,East,Corporate,Electronics,Bluetooth Speaker,2,45.0,0.1,81.0
+ORD-00347,2024-08-07,North,Consumer,Apparel,Jacket,5,60.0,0.05,285.0
+ORD-00423,2024-08-07,East,Consumer,Apparel,Jacket,7,60.0,0.0,420.0
+ORD-00449,2024-08-08,South,Consumer,Furniture,Filing Cabinet,7,140.0,0.0,980.0
+ORD-00170,2024-08-09,South,Small Business,Electronics,Bluetooth Speaker,5,45.0,0.0,225.0
+ORD-00436,2024-08-09,North,Corporate,Electronics,Webcam,4,55.0,0.15,187.0
+ORD-00225,2024-08-10,East,Consumer,Furniture,Filing Cabinet,2,140.0,0.0,280.0
+ORD-00425,2024-08-10,South,Small Business,Office Supplies,Sticky Notes,4,3.5,0.0,14.0
+ORD-00124,2024-08-11,West,Consumer,Office Supplies,Notebook Pack,7,6.5,0.05,43.22
+ORD-00177,2024-08-12,East,Corporate,Furniture,Bookshelf,7,95.0,0.05,631.75
+ORD-00417,2024-08-12,South,Consumer,Apparel,Hoodie,6,35.0,0.05,199.5
+ORD-00331,2024-08-12,East,Corporate,Furniture,Bookshelf,1,95.0,0.0,95.0
+ORD-00344,2024-08-13,West,Consumer,Furniture,Bookshelf,4,95.0,0.0,380.0
+ORD-00600,2024-08-14,North,Small Business,Furniture,Filing Cabinet,4,140.0,0.05,532.0
+ORD-00367,2024-08-14,West,Corporate,Office Supplies,Desk Organizer,7,12.0,0.0,84.0
+ORD-00121,2024-08-15,East,Consumer,Office Supplies,Notebook Pack,1,6.5,0.15,5.52
+ORD-00026,2024-08-16,East,Consumer,Furniture,Standing Desk,7,260.0,0.0,1820.0
+ORD-00117,2024-08-17,South,Consumer,Electronics,USB-C Hub,5,32.0,0.05,152.0
+ORD-00171,2024-08-17,South,Corporate,Electronics,Webcam,7,55.0,0.15,327.25
+ORD-00009,2024-08-17,East,Consumer,Electronics,Keyboard,2,40.0,0.0,80.0
+ORD-00185,2024-08-17,West,Consumer,Office Supplies,Stapler,3,5.0,0.2,12.0
+ORD-00317,2024-08-18,North,Consumer,Furniture,Bookshelf,4,95.0,0.0,380.0
+ORD-00546,2024-08-18,South,Small Business,Electronics,USB-C Hub,7,32.0,0.05,212.8
+ORD-00492,2024-08-19,North,Small Business,Apparel,Cap,7,10.0,0.1,63.0
+ORD-00408,2024-08-20,East,Small Business,Electronics,USB-C Hub,5,32.0,0.05,152.0
+ORD-00301,2024-08-20,East,Corporate,Office Supplies,Notebook Pack,4,6.5,0.05,24.7
+ORD-00324,2024-08-21,South,Consumer,Apparel,T-Shirt,2,15.0,0.05,28.5
+ORD-00550,2024-08-21,South,Corporate,Furniture,Desk Lamp,6,22.0,0.0,132.0
+ORD-00502,2024-08-21,West,Corporate,Furniture,Bookshelf,2,95.0,0.0,190.0
+ORD-00147,2024-08-22,South,Consumer,Electronics,USB-C Hub,6,32.0,0.0,192.0
+ORD-00266,2024-08-22,West,Corporate,Furniture,Filing Cabinet,1,140.0,0.15,119.0
+ORD-00118,2024-08-22,South,Small Business,Electronics,USB-C Hub,5,32.0,0.1,144.0
+ORD-00577,2024-08-23,South,Consumer,Apparel,Hoodie,3,35.0,0.0,105.0
+ORD-00589,2024-08-25,North,Consumer,Apparel,Cap,4,10.0,0.15,34.0
+ORD-00273,2024-08-26,West,Consumer,Electronics,Wireless Mouse,4,18.0,0.0,72.0
+ORD-00409,2024-08-28,North,Consumer,Apparel,Socks Pack,2,8.0,0.0,16.0
+ORD-00438,2024-08-28,East,Consumer,Apparel,T-Shirt,5,15.0,0.05,71.25
+ORD-00159,2024-08-31,North,Consumer,Furniture,Office Chair,1,120.0,0.05,114.0
+ORD-00193,2024-09-01,South,Corporate,Furniture,Filing Cabinet,7,140.0,0.0,980.0
+ORD-00002,2024-09-02,East,Consumer,Apparel,Socks Pack,4,8.0,0.0,32.0
+ORD-00375,2024-09-02,North,Consumer,Apparel,T-Shirt,2,15.0,0.0,30.0
+ORD-00233,2024-09-03,West,Corporate,Electronics,USB-C Hub,2,32.0,0.0,64.0
+ORD-00206,2024-09-04,West,Consumer,Office Supplies,Desk Organizer,2,12.0,0.1,21.6
+ORD-00390,2024-09-04,South,Corporate,Electronics,Webcam,1,55.0,0.05,52.25
+ORD-00519,2024-09-04,North,Corporate,Office Supplies,Desk Organizer,3,12.0,0.15,30.6
+ORD-00192,2024-09-05,North,Corporate,Furniture,Bookshelf,4,95.0,0.05,361.0
+ORD-00576,2024-09-07,South,Consumer,Office Supplies,Printer Paper,1,8.0,0.05,7.6
+ORD-00588,2024-09-08,North,Corporate,Electronics,USB-C Hub,1,32.0,0.0,32.0
+ORD-00268,2024-09-08,West,Consumer,Office Supplies,Sticky Notes,3,3.5,0.05,9.98
+ORD-00573,2024-09-08,East,Consumer,Office Supplies,Printer Paper,3,8.0,0.0,24.0
+ORD-00105,2024-09-12,West,Consumer,Apparel,T-Shirt,5,15.0,0.05,71.25
+ORD-00221,2024-09-12,North,Consumer,Electronics,Wireless Mouse,7,18.0,0.05,119.7
+ORD-00557,2024-09-14,East,Consumer,Furniture,Office Chair,3,120.0,0.0,360.0
+ORD-00068,2024-09-14,North,Consumer,Office Supplies,Sticky Notes,3,3.5,0.0,10.5
+ORD-00005,2024-09-14,West,Corporate,Office Supplies,Sticky Notes,5,3.5,0.2,14.0
+ORD-00050,2024-09-15,East,Consumer,Apparel,Jacket,7,60.0,0.0,420.0
+ORD-00065,2024-09-15,East,Small Business,Office Supplies,Stapler,2,5.0,0.2,8.0
+ORD-00490,2024-09-16,West,Consumer,Furniture,Office Chair,1,120.0,0.0,120.0
+ORD-00135,2024-09-16,South,Corporate,Apparel,Hoodie,4,35.0,0.0,140.0
+ORD-00446,2024-09-16,North,Consumer,Furniture,Office Chair,3,120.0,0.05,342.0
+ORD-00554,2024-09-17,West,Corporate,Office Supplies,Sticky Notes,3,3.5,0.15,8.92
+ORD-00151,2024-09-17,East,Consumer,Apparel,Jacket,1,60.0,0.05,57.0
+ORD-00093,2024-09-19,North,Corporate,Apparel,Jacket,4,60.0,0.1,216.0
+ORD-00400,2024-09-20,East,Consumer,Office Supplies,Stapler,5,5.0,0.0,25.0
+ORD-00354,2024-09-22,South,Corporate,Office Supplies,Stapler,5,5.0,0.05,23.75
+ORD-00047,2024-09-22,East,Consumer,Office Supplies,Stapler,7,5.0,0.1,31.5
+ORD-00245,2024-09-23,West,Corporate,Furniture,Office Chair,1,120.0,0.0,120.0
+ORD-00280,2024-09-23,North,Corporate,Electronics,Webcam,3,55.0,0.0,165.0
+ORD-00031,2024-09-24,South,Consumer,Office Supplies,Desk Organizer,6,12.0,0.0,72.0
+ORD-00388,2024-09-25,North,Corporate,Apparel,Hoodie,1,35.0,0.0,35.0
+ORD-00541,2024-09-25,East,Corporate,Furniture,Desk Lamp,4,22.0,0.0,88.0
+ORD-00473,2024-09-25,West,Corporate,Office Supplies,Desk Organizer,2,12.0,0.0,24.0
+ORD-00014,2024-09-25,North,Corporate,Apparel,Hoodie,7,35.0,0.2,196.0
+ORD-00267,2024-09-26,East,Consumer,Office Supplies,Sticky Notes,5,3.5,0.1,15.75
+ORD-00229,2024-09-26,East,Corporate,Furniture,Desk Lamp,2,22.0,0.05,41.8
+ORD-00263,2024-09-27,North,Consumer,Office Supplies,Notebook Pack,1,6.5,0.1,5.85
+ORD-00195,2024-09-27,West,Consumer,Apparel,Cap,2,10.0,0.05,19.0
+ORD-00020,2024-09-28,North,Consumer,Office Supplies,Notebook Pack,4,6.5,0.05,24.7
+ORD-00494,2024-09-28,South,Consumer,Furniture,Standing Desk,3,260.0,0.0,780.0
+ORD-00362,2024-09-28,West,Corporate,Apparel,Cap,2,10.0,0.0,20.0
+ORD-00252,2024-09-29,North,Small Business,Office Supplies,Sticky Notes,1,3.5,0.15,2.98
+ORD-00183,2024-09-29,North,Consumer,Office Supplies,Notebook Pack,3,6.5,0.15,16.58
+ORD-00028,2024-09-29,North,Consumer,Apparel,Hoodie,7,35.0,0.15,208.25
+ORD-00472,2024-09-29,West,Corporate,Apparel,Hoodie,4,35.0,0.15,119.0
+ORD-00366,2024-09-30,West,Corporate,Furniture,Bookshelf,4,95.0,0.1,342.0
+ORD-00076,2024-09-30,South,Corporate,Office Supplies,Desk Organizer,5,12.0,0.05,57.0
+ORD-00466,2024-09-30,South,Consumer,Apparel,Hoodie,3,35.0,0.05,99.75
+ORD-00457,2024-09-30,West,Consumer,Electronics,USB-C Hub,6,32.0,0.05,182.4
+ORD-00167,2024-09-30,East,Corporate,Office Supplies,Desk Organizer,3,12.0,0.0,36.0
+ORD-00585,2024-10-01,North,Consumer,Office Supplies,Stapler,6,5.0,0.05,28.5
+ORD-00096,2024-10-01,East,Corporate,Office Supplies,Printer Paper,4,8.0,0.0,32.0
+ORD-00053,2024-10-01,South,Corporate,Office Supplies,Printer Paper,1,8.0,0.0,8.0
+ORD-00282,2024-10-02,North,Consumer,Office Supplies,Sticky Notes,1,3.5,0.0,3.5
+ORD-00569,2024-10-02,East,Corporate,Furniture,Desk Lamp,1,22.0,0.1,19.8
+ORD-00346,2024-10-04,East,Corporate,Office Supplies,Notebook Pack,5,6.5,0.0,32.5
+ORD-00048,2024-10-04,East,Small Business,Apparel,Cap,4,10.0,0.15,34.0
+ORD-00133,2024-10-04,South,Consumer,Electronics,Keyboard,3,40.0,0.05,114.0
+ORD-00145,2024-10-05,North,Consumer,Apparel,Socks Pack,2,8.0,0.0,16.0
+ORD-00112,2024-10-05,West,Consumer,Apparel,Cap,3,10.0,0.05,28.5
+ORD-00187,2024-10-06,North,Small Business,Electronics,Wireless Mouse,4,18.0,0.1,64.8
+ORD-00582,2024-10-06,South,Small Business,Apparel,Jacket,3,60.0,0.0,180.0
+ORD-00247,2024-10-07,West,Small Business,Apparel,T-Shirt,7,15.0,0.1,94.5
+ORD-00203,2024-10-07,West,Consumer,Office Supplies,Stapler,3,5.0,0.1,13.5
+ORD-00432,2024-10-08,East,Corporate,Furniture,Office Chair,7,120.0,0.0,840.0
+ORD-00157,2024-10-08,East,Small Business,Electronics,Webcam,3,55.0,0.15,140.25
+ORD-00226,2024-10-08,West,Small Business,Office Supplies,Notebook Pack,6,6.5,0.05,37.05
+ORD-00387,2024-10-09,South,Corporate,Electronics,Webcam,6,55.0,0.0,330.0
+ORD-00544,2024-10-09,South,Small Business,Electronics,Keyboard,1,40.0,0.0,40.0
+ORD-00001,2024-10-10,South,Corporate,Electronics,Webcam,7,55.0,0.0,385.0
+ORD-00223,2024-10-10,East,Consumer,Furniture,Office Chair,5,120.0,0.1,540.0
+ORD-00224,2024-10-10,North,Consumer,Electronics,Webcam,5,55.0,0.0,275.0
+ORD-00429,2024-10-11,East,Corporate,Electronics,USB-C Hub,3,32.0,0.0,96.0
+ORD-00480,2024-10-11,West,Small Business,Electronics,Keyboard,4,40.0,0.0,160.0
+ORD-00326,2024-10-12,East,Corporate,Electronics,Keyboard,1,40.0,0.15,34.0
+ORD-00565,2024-10-12,East,Consumer,Apparel,Cap,5,10.0,0.05,47.5
+ORD-00350,2024-10-12,North,Corporate,Electronics,Bluetooth Speaker,1,45.0,0.15,38.25
+ORD-00074,2024-10-12,North,Consumer,Electronics,Wireless Mouse,5,18.0,0.15,76.5
+ORD-00323,2024-10-14,South,Corporate,Furniture,Bookshelf,2,95.0,0.15,161.5
+ORD-00382,2024-10-14,North,Consumer,Apparel,Socks Pack,2,8.0,0.0,16.0
+ORD-00422,2024-10-14,North,Corporate,Furniture,Office Chair,1,120.0,0.0,120.0
+ORD-00055,2024-10-14,East,Corporate,Office Supplies,Stapler,5,5.0,0.15,21.25
+ORD-00130,2024-10-15,East,Corporate,Furniture,Filing Cabinet,3,140.0,0.0,420.0
+ORD-00154,2024-10-16,South,Corporate,Office Supplies,Sticky Notes,7,3.5,0.0,24.5
+ORD-00296,2024-10-17,West,Small Business,Furniture,Filing Cabinet,4,140.0,0.0,560.0
+ORD-00396,2024-10-17,South,Consumer,Apparel,Socks Pack,2,8.0,0.0,16.0
+ORD-00483,2024-10-17,West,Consumer,Office Supplies,Sticky Notes,1,3.5,0.05,3.32
+ORD-00393,2024-10-17,North,Consumer,Office Supplies,Notebook Pack,3,6.5,0.05,18.52
+ORD-00564,2024-10-17,North,Consumer,Electronics,USB-C Hub,5,32.0,0.0,160.0
+ORD-00571,2024-10-18,South,Corporate,Apparel,Socks Pack,3,8.0,0.15,20.4
+ORD-00481,2024-10-18,West,Consumer,Office Supplies,Sticky Notes,7,3.5,0.0,24.5
+ORD-00385,2024-10-18,West,Corporate,Electronics,USB-C Hub,5,32.0,0.15,136.0
+ORD-00300,2024-10-19,West,Corporate,Electronics,Webcam,6,55.0,0.1,297.0
+ORD-00057,2024-10-19,East,Consumer,Furniture,Filing Cabinet,2,140.0,0.1,252.0
+ORD-00037,2024-10-19,East,Consumer,Apparel,Hoodie,1,35.0,0.15,29.75
+ORD-00246,2024-10-22,South,Consumer,Electronics,Wireless Mouse,1,18.0,0.0,18.0
+ORD-00198,2024-10-23,North,Consumer,Electronics,USB-C Hub,5,32.0,0.1,144.0
+ORD-00010,2024-10-23,East,Consumer,Electronics,Keyboard,7,40.0,0.0,280.0
+ORD-00508,2024-10-23,West,Consumer,Electronics,Keyboard,7,40.0,0.0,280.0
+ORD-00401,2024-10-24,South,Consumer,Apparel,Jacket,3,60.0,0.0,180.0
+ORD-00208,2024-10-24,North,Consumer,Apparel,T-Shirt,7,15.0,0.0,105.0
+ORD-00078,2024-10-24,West,Corporate,Electronics,Wireless Mouse,6,18.0,0.0,108.0
+ORD-00455,2024-10-25,North,Consumer,Furniture,Office Chair,2,120.0,0.15,204.0
+ORD-00364,2024-10-26,South,Corporate,Apparel,Hoodie,7,35.0,0.15,208.25
+ORD-00082,2024-10-26,North,Small Business,Office Supplies,Notebook Pack,6,6.5,0.1,35.1
+ORD-00169,2024-10-27,West,Corporate,Office Supplies,Notebook Pack,7,6.5,0.0,45.5
+ORD-00540,2024-10-28,East,Consumer,Electronics,USB-C Hub,2,32.0,0.2,51.2
+ORD-00521,2024-10-28,East,Small Business,Office Supplies,Notebook Pack,1,6.5,0.1,5.85
+ORD-00440,2024-10-29,South,Consumer,Office Supplies,Sticky Notes,2,3.5,0.0,7.0
+ORD-00523,2024-10-29,West,Consumer,Electronics,Bluetooth Speaker,5,45.0,0.0,225.0
+ORD-00067,2024-10-29,East,Small Business,Apparel,Cap,1,10.0,0.2,8.0
+ORD-00127,2024-10-30,North,Corporate,Electronics,Webcam,5,55.0,0.15,233.75
+ORD-00381,2024-10-30,South,Consumer,Electronics,USB-C Hub,3,32.0,0.0,96.0
+ORD-00190,2024-10-31,South,Consumer,Office Supplies,Notebook Pack,7,6.5,0.0,45.5
+ORD-00230,2024-10-31,North,Consumer,Electronics,Wireless Mouse,6,18.0,0.2,86.4
+ORD-00051,2024-11-01,North,Corporate,Apparel,Cap,2,10.0,0.05,19.0
+ORD-00507,2024-11-01,North,Corporate,Furniture,Standing Desk,7,260.0,0.2,1456.0
+ORD-00148,2024-11-01,West,Corporate,Electronics,Bluetooth Speaker,5,45.0,0.1,202.5
+ORD-00231,2024-11-02,West,Corporate,Office Supplies,Printer Paper,4,8.0,0.2,25.6
+ORD-00572,2024-11-03,South,Consumer,Office Supplies,Desk Organizer,3,12.0,0.0,36.0
+ORD-00459,2024-11-03,North,Consumer,Apparel,Cap,6,10.0,0.05,57.0
+ORD-00156,2024-11-05,South,Consumer,Furniture,Bookshelf,4,95.0,0.05,361.0
+ORD-00334,2024-11-05,East,Consumer,Apparel,Socks Pack,2,8.0,0.05,15.2
+ORD-00316,2024-11-05,North,Consumer,Furniture,Bookshelf,7,95.0,0.05,631.75
+ORD-00332,2024-11-06,North,Corporate,Office Supplies,Desk Organizer,1,12.0,0.05,11.4
+ORD-00578,2024-11-08,East,Corporate,Furniture,Office Chair,2,120.0,0.2,192.0
+ORD-00379,2024-11-09,East,Consumer,Office Supplies,Printer Paper,1,8.0,0.15,6.8
+ORD-00339,2024-11-09,East,Consumer,Electronics,USB-C Hub,5,32.0,0.0,160.0
+ORD-00264,2024-11-10,East,Small Business,Apparel,Socks Pack,1,8.0,0.0,8.0
+ORD-00107,2024-11-10,North,Corporate,Apparel,T-Shirt,2,15.0,0.15,25.5
+ORD-00456,2024-11-11,South,Corporate,Furniture,Desk Lamp,2,22.0,0.0,44.0
+ORD-00463,2024-11-12,East,Corporate,Furniture,Office Chair,2,120.0,0.05,228.0
+ORD-00340,2024-11-12,East,Corporate,Apparel,Cap,5,10.0,0.0,50.0
+ORD-00470,2024-11-12,North,Small Business,Apparel,T-Shirt,6,15.0,0.0,90.0
+ORD-00120,2024-11-12,South,Consumer,Electronics,USB-C Hub,3,32.0,0.0,96.0
+ORD-00160,2024-11-14,East,Consumer,Apparel,Socks Pack,3,8.0,0.1,21.6
+ORD-00418,2024-11-15,North,Consumer,Electronics,USB-C Hub,4,32.0,0.0,128.0
+ORD-00358,2024-11-15,East,Consumer,Apparel,Socks Pack,6,8.0,0.1,43.2
+ORD-00579,2024-11-17,South,Corporate,Apparel,Hoodie,3,35.0,0.0,105.0
+ORD-00581,2024-11-17,East,Corporate,Electronics,Webcam,1,55.0,0.0,55.0
+ORD-00548,2024-11-17,West,Corporate,Furniture,Filing Cabinet,3,140.0,0.05,399.0
+ORD-00239,2024-11-18,West,Corporate,Office Supplies,Notebook Pack,3,6.5,0.0,19.5
+ORD-00046,2024-11-18,East,Small Business,Apparel,Hoodie,7,35.0,0.0,245.0
+ORD-00428,2024-11-18,South,Small Business,Apparel,Hoodie,5,35.0,0.05,166.25
+ORD-00474,2024-11-19,West,Corporate,Office Supplies,Stapler,6,5.0,0.1,27.0
+ORD-00162,2024-11-20,East,Small Business,Furniture,Bookshelf,1,95.0,0.05,90.25
+ORD-00506,2024-11-20,South,Consumer,Office Supplies,Notebook Pack,7,6.5,0.0,45.5
+ORD-00126,2024-11-20,West,Consumer,Furniture,Office Chair,2,120.0,0.0,240.0
+ORD-00030,2024-11-22,West,Consumer,Office Supplies,Printer Paper,3,8.0,0.1,21.6
+ORD-00243,2024-11-23,East,Corporate,Electronics,Keyboard,7,40.0,0.1,252.0
+ORD-00109,2024-11-24,South,Consumer,Office Supplies,Stapler,3,5.0,0.1,13.5
+ORD-00518,2024-11-25,North,Small Business,Electronics,USB-C Hub,3,32.0,0.05,91.2
+ORD-00128,2024-11-27,East,Consumer,Apparel,T-Shirt,1,15.0,0.0,15.0
+ORD-00298,2024-11-27,North,Consumer,Office Supplies,Notebook Pack,6,6.5,0.05,37.05
+ORD-00590,2024-11-28,West,Consumer,Apparel,T-Shirt,6,15.0,0.0,90.0
+ORD-00095,2024-11-28,South,Corporate,Apparel,T-Shirt,7,15.0,0.15,89.25
+ORD-00202,2024-11-29,East,Corporate,Apparel,Hoodie,2,35.0,0.0,70.0
+ORD-00384,2024-11-29,East,Consumer,Electronics,Webcam,3,55.0,0.05,156.75
+ORD-00330,2024-11-30,East,Corporate,Furniture,Bookshelf,7,95.0,0.0,665.0
+ORD-00445,2024-12-01,South,Consumer,Furniture,Filing Cabinet,1,140.0,0.2,112.0
+ORD-00402,2024-12-01,West,Corporate,Apparel,Socks Pack,6,8.0,0.05,45.6
+ORD-00520,2024-12-02,North,Small Business,Furniture,Bookshelf,4,95.0,0.2,304.0
+ORD-00201,2024-12-02,West,Small Business,Office Supplies,Notebook Pack,6,6.5,0.0,39.0
+ORD-00276,2024-12-03,East,Consumer,Office Supplies,Stapler,3,5.0,0.1,13.5
+ORD-00495,2024-12-04,West,Consumer,Office Supplies,Printer Paper,2,8.0,0.1,14.4
+ORD-00003,2024-12-05,North,Corporate,Furniture,Filing Cabinet,7,140.0,0.0,980.0
+ORD-00114,2024-12-05,North,Consumer,Office Supplies,Desk Organizer,6,12.0,0.2,57.6
+ORD-00313,2024-12-05,North,Consumer,Electronics,Bluetooth Speaker,6,45.0,0.05,256.5
+ORD-00439,2024-12-07,South,Consumer,Electronics,USB-C Hub,2,32.0,0.15,54.4
+ORD-00553,2024-12-08,West,Corporate,Apparel,Cap,5,10.0,0.15,42.5
+ORD-00352,2024-12-08,North,Corporate,Electronics,Bluetooth Speaker,6,45.0,0.0,270.0
+ORD-00172,2024-12-08,South,Corporate,Electronics,Keyboard,3,40.0,0.05,114.0
+ORD-00462,2024-12-10,North,Corporate,Electronics,Webcam,5,55.0,0.0,275.0
+ORD-00310,2024-12-10,West,Small Business,Electronics,Wireless Mouse,5,18.0,0.0,90.0
+ORD-00441,2024-12-12,South,Consumer,Apparel,Socks Pack,6,8.0,0.0,48.0
+ORD-00186,2024-12-12,East,Consumer,Office Supplies,Stapler,2,5.0,0.1,9.0
+ORD-00575,2024-12-13,South,Corporate,Electronics,Wireless Mouse,6,18.0,0.05,102.6
+ORD-00036,2024-12-14,South,Consumer,Electronics,Webcam,3,55.0,0.0,165.0
+ORD-00488,2024-12-15,West,Consumer,Furniture,Desk Lamp,3,22.0,0.0,66.0
+ORD-00383,2024-12-16,East,Consumer,Apparel,Cap,4,10.0,0.0,40.0
+ORD-00004,2024-12-16,East,Small Business,Office Supplies,Notebook Pack,6,6.5,0.0,39.0
+ORD-00211,2024-12-16,North,Small Business,Office Supplies,Notebook Pack,1,6.5,0.0,6.5
+ORD-00398,2024-12-16,West,Consumer,Electronics,Bluetooth Speaker,6,45.0,0.0,270.0
+ORD-00214,2024-12-18,South,Consumer,Office Supplies,Printer Paper,6,8.0,0.15,40.8
+ORD-00283,2024-12-19,East,Consumer,Furniture,Bookshelf,3,95.0,0.0,285.0
+ORD-00511,2024-12-20,North,Small Business,Apparel,Socks Pack,3,8.0,0.1,21.6
+ORD-00516,2024-12-20,South,Consumer,Electronics,USB-C Hub,7,32.0,0.1,201.6
+ORD-00355,2024-12-21,East,Corporate,Apparel,Socks Pack,4,8.0,0.0,32.0
+ORD-00426,2024-12-23,North,Consumer,Electronics,Wireless Mouse,7,18.0,0.15,107.1
+ORD-00199,2024-12-23,North,Consumer,Office Supplies,Printer Paper,1,8.0,0.15,6.8
+ORD-00270,2024-12-24,East,Consumer,Furniture,Office Chair,1,120.0,0.0,120.0
+ORD-00219,2024-12-25,East,Consumer,Office Supplies,Desk Organizer,7,12.0,0.0,84.0
+ORD-00361,2024-12-25,West,Small Business,Apparel,T-Shirt,3,15.0,0.0,45.0
+ORD-00404,2024-12-25,South,Corporate,Apparel,Jacket,3,60.0,0.0,180.0
+ORD-00593,2024-12-25,East,Small Business,Electronics,Wireless Mouse,3,18.0,0.05,51.3
+ORD-00371,2024-12-26,South,Consumer,Office Supplies,Printer Paper,1,8.0,0.2,6.4
+ORD-00412,2024-12-26,West,Consumer,Electronics,Webcam,2,55.0,0.15,93.5
+ORD-00149,2024-12-27,West,Consumer,Apparel,Hoodie,6,35.0,0.15,178.5
+ORD-00534,2024-12-27,East,Corporate,Office Supplies,Desk Organizer,7,12.0,0.0,84.0
+ORD-00279,2024-12-28,North,Consumer,Electronics,USB-C Hub,2,32.0,0.0,64.0
+ORD-00238,2024-12-28,East,Consumer,Office Supplies,Notebook Pack,5,6.5,0.0,32.5
+ORD-00158,2024-12-29,East,Corporate,Furniture,Standing Desk,1,260.0,0.0,260.0
+ORD-00175,2024-12-29,South,Small Business,Furniture,Desk Lamp,7,22.0,0.15,130.9
+ORD-00207,2024-12-30,North,Consumer,Apparel,Cap,3,10.0,0.0,30.0
+ORD-00122,2024-12-30,East,Consumer,Furniture,Desk Lamp,2,22.0,0.1,39.6
